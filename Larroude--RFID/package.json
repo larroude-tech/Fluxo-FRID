@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@replytechnologies/zpl-image-convert": "^0.0.3"
+  }
+}
